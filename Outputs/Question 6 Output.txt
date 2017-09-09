@@ -1,0 +1,44 @@
+Question 6 Output:
+
+Enter a string: breakfast
+b
+r
+e
+a
+k
+f
+a
+s
+t
+
+Enter a string: pizza
+p
+i
+z
+z
+a
+
+Enter a string: chicken sandwich
+c
+h
+i
+c
+k
+e
+n
+ 
+s
+a
+n
+d
+w
+i
+c
+h
+
+
+
+
+
+
+

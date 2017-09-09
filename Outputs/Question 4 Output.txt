@@ -1,0 +1,7 @@
+Question 4 Output:
+
+Inside outer for-loop
+0
+Now, inside inner for-loop
+0
+Exited the for loops

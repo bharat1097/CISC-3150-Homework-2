@@ -1,0 +1,19 @@
+Question 3 Output:
+
+Enter a string: scotland
+Entered string is NOT a palindrome.
+
+Enter a string: racecar
+Entered string IS a palindrome.
+
+Enter a string: apple
+Entered string is NOT a palindrome.
+
+Enter a string: mom
+Entered string IS a palindrome.
+
+Enter a string: computer
+Entered string is NOT a palindrome.
+
+Enter a string: madam
+Entered string IS a palindrome.
