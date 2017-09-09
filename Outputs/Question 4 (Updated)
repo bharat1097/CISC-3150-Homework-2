@@ -1,0 +1,19 @@
+Question 4 (Updated):
+
+int x = 4282;
+for(int i=0;i<35;i++){
+	System.out.printf("%d\t\t%32s\n",i,Integer.toBinaryString(x>>>i);
+}
+
+VS
+
+int x = 4282;
+for(int i=0;i<35;i++){
+	System.out.printf("%d\t\t%32s\n",i,Integer.toBinaryString(x));
+	x = x >>> i;
+}
+
+
+I think that the reason for getting different outputs for these seemingly equivalent pieces of code is because if you notice in the first code,
+the value of variable 'x' is NOT changing. It remains the same throughout the course of the for-loop. But in the second code the statement,
+x = x>>>i; causes the value of 'x' to be different for each iteration of the for-loop. 
